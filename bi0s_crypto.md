@@ -43,7 +43,5 @@ Tried to read character by character using for loop and did the xor between the 
 
 ![](bi0s\_crypto.005.png)
 
-**o/p**
-
 ![](bi0s\_crypto.006.png)
 
